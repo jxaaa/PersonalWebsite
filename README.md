@@ -1,2 +1,2 @@
 # PersonalWebsite
-explore me:
+Explore me!
